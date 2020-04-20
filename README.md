@@ -10,7 +10,7 @@ The tutorial instructor for this part of the course is [Luigi Acerbi](http://lui
 - You will also need the `CMA-ES` optimization algorithm (see [here](https://github.com/CMA-ES/pycma)). You can install CMA-ES from the command line with `pip install cma`.
 - Then open the Jupyter notebook `ibl-intro-model-fitting-notebook.ipynb` (you should have *Jupyter notebook* installed as part of Anaconda).
 
-For any additional question, please email the course instructor at luigiacerbi@internationalbrainlab.org.
+For any additional question, please email the course instructor at luigi.acerbi@internationalbrainlab.org.
 
 ## License
 
