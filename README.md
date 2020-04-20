@@ -1,6 +1,7 @@
 # Tutorial on computational modeling and statistical model fitting
 
-This tutorial is part the *Trends in Computational Neuroscience* graduate course of the University of Geneva (2020). The course instructor for this part of the course is [Luigi Acerbi](http://luigiacerbi.com/).
+This tutorial is part of the internal *Computational Neuroscience Course* organized by the [International Brain Laboratory](https://www.internationalbrainlab.com/) in Spring 2020. 
+The tutorial instructor for this part of the course is [Luigi Acerbi](http://luigiacerbi.com/).
 
 ## Tutorial instructions
 
@@ -9,14 +10,9 @@ This tutorial is part the *Trends in Computational Neuroscience* graduate course
 - You will also need the `CMA-ES` optimization algorithm (see [here](https://github.com/CMA-ES/pycma)). You can install CMA-ES from the command line with `pip install cma`.
 - Then open the Jupyter notebook `tics-intro-model-fitting-notebook.ipynb` (you should have *Jupyter notebook* installed as part of Anaconda).
 
-## Additional lecture materials
-
-- Slides of the lectures are available [here](https://github.com/lacerbi/tics-2020-tutorial/blob/master/TICS-Mini-project-2-instructions.pdf).
-- Instructions for the second mini-project related to this part of the course are [here](https://github.com/lacerbi/tics-2020-tutorial/blob/master/Acerbi-TICS-2020-slides.pdf).
-
-For any additional question, please email the course instructor at luigi.acerbi@unige.ch.
+For any additional question, please email the course instructor at luigiacerbi@internationalbrainlab.org.
 
 ## License
 
-Code and scripts in this repository are released under the terms of the [MIT License](https://github.com/lacerbi/tics-2020-tutorial/blob/master/LICENSE).
+Code and scripts in this repository are released under the terms of the [MIT License](https://github.com/lacerbi/ibl-2020-tutorial/blob/master/LICENSE).
 
